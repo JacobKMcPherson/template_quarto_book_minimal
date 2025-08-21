@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tutorials.thecoatlessprofessor.com/quarto-book-template/index.html</loc>
-    <lastmod>2025-08-21T05:23:07.804Z</lastmod>
+    <loc>https://username.github.io/repository-name/index.html</loc>
+    <lastmod>2025-08-21T05:37:26.163Z</lastmod>
   </url>
   <url>
-    <loc>https://tutorials.thecoatlessprofessor.com/quarto-book-template/my-first-book.html</loc>
-    <lastmod>2025-08-21T05:23:07.804Z</lastmod>
+    <loc>https://username.github.io/repository-name/my-first-book.html</loc>
+    <lastmod>2025-08-21T05:37:26.163Z</lastmod>
   </url>
   <url>
-    <loc>https://tutorials.thecoatlessprofessor.com/quarto-book-template/hello-world.html</loc>
-    <lastmod>2025-08-21T05:23:07.804Z</lastmod>
+    <loc>https://username.github.io/repository-name/hello-world.html</loc>
+    <lastmod>2025-08-21T05:37:26.163Z</lastmod>
   </url>
   <url>
-    <loc>https://tutorials.thecoatlessprofessor.com/quarto-book-template/appendix-notes.html</loc>
-    <lastmod>2025-08-21T05:23:07.804Z</lastmod>
+    <loc>https://username.github.io/repository-name/appendix-notes.html</loc>
+    <lastmod>2025-08-21T05:37:26.163Z</lastmod>
   </url>
 </urlset>
