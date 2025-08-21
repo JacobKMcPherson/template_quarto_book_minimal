@@ -1,3 +1,7 @@
-# The Hello World Example {#sec-hello-world}
+# Your First Chapter {#sec-first-chapter}
 
-Hello Quarto World!
+This is your first chapter. Add your content here.
+
+## Section Example
+
+You can add sections, subsections, and content as needed.

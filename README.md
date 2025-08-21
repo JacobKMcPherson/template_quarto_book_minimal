@@ -1,5 +1,6 @@
-# quarto-book-template
-Template repository for creating a book powered by Quarto and Rendered by GitHub Actions onto GitHub Pages
+# Quarto Book Template
+
+A minimal template repository for creating a book powered by Quarto and rendered by GitHub Actions onto GitHub Pages.
 
 ## Overview
 
