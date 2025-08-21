@@ -1,3 +1,8 @@
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 on:
   workflow_dispatch:
   pull_request:
@@ -5,13 +10,13 @@ on:
   push:
     # only trigger on main/master branches, not on tags
     branches: [main, master]
-
+  
 name: quarto-render
 jobs:
   quarto-linux:
     runs-on: ubuntu-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.GH_TOKEN }}
     steps:
       # Obtain a copy of the repository on the runner
       - name: Check out repository
