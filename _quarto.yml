@@ -25,10 +25,9 @@ format:
   html: 
     theme: cosmo
     code-link: true
-
-comments:
-   giscus:
-     repo: jacobkmcpherson/template_quarto_book_minimal # change to your username/repo-name
+  comments:
+    giscus:
+     repo: jacobkmcpherson/template_quarto_book_minimal # change to YOURUSERNAME/YOUR-REPO-NAME
      #repo-id: YOUR_REPO_ID
      category: Announcements
      #category-id: YOUR_CATEGORY_ID
